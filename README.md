@@ -1,6 +1,6 @@
 <h1 align='center'>Défi des 100 jours de Ran.données <br> <i>aka. 100 days of Data.Trek</i></h1>
 
-<h2 align='right'>Organisé par l'AÉBINUM et IVADO</h2>
+<h3 align='right'>Organisé par l'AÉBINUM et IVADO</h3>
 
 ## A propos
 ### Data quoi ?
@@ -54,5 +54,5 @@ Mettez au moins une de ces informations / Add at least one of those information 
 > Souhaitez-vous partager le vôtre ? Ecrivez moi sur Slack (@Savvy) et je vous ajouterai ici ! <br>
 > Do you want to share yours? Write me on Slack (@Savvy) and I'll add you here!
 
-<h2 align='center'>Bonne chance pour vos 100 jours de Ran.Données 🎉 <br> Good luck for your 100 days of Data.Trek !! 🎉</h1>
+<h3 align='center'>Bonne chance pour vos 100 jours de Ran.Données 🎉 <br> Good luck for your 100 days of Data.Trek !! 🎉</h3>
   
