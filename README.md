@@ -1,5 +1,6 @@
 <h1 align='center'>Défi des 100 jours de Ran.données <br> <i>aka. 100 days of Data.Trek</i></h1>
-## Organisé par l'AÉBINUM et IVADO
+
+<h2 align='right'>Organisé par l'AÉBINUM et IVADO</h2>
 
 ## A propos
 ### Data quoi ?
