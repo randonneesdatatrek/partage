@@ -1,23 +1,13 @@
-# Défi des 100 jours de Ran.données
+# Défi des 100 jours de Ran.données <br>
+# _aka. 100 days of Data.Trek_
 ## Organisé par l'AÉBINUM et IVADO
-
-### Qu'est-ce que les 100 jours de Ran.données?
-Le Défi des 100 jours de Ran.Données, c’est allier l’utile à l’agréable! Tout commence par un jeu de données et une idée de projet – ça, c’est vous qui les fournissez. Nous, on s’occupe de vous initier à votre langage de programmation préféré entre R et Python. Que les 100 jours commencent! [Pour en savoir plus](http://www.aebinum.umontreal.ca/datatrek2021.html#)
-
-### Partage
-Ce dossier contient l'ensemble des documents liés au Data.Trek 2021: 
-1. contenu: Notebooks utilisés pendant les ateliers 
-2. data: Banque de données et idée de projets 
-3. ressources_externes: Notebook des notions de base et autres ressources
-4. Calendrier
-
-_______
 
 ## A propos
 ### Data quoi ?
 
-- Ran.Donnée / Data.Trek est une initiative étudiante créé par l'AEBINUM (http://www.aebinum.umontreal.ca/) et soutenu par l'IVADO (https://ivado.ca/en/)
-- Un défi de 100 jours qui permet d'apprendre à analyser un jeu de données de type "big data"
+Le Défi des 100 jours de Ran.Données, c’est allier l’utile à l’agréable! Tout commence par un jeu de données et une idée de projet – ça, c’est vous qui les fournissez. Nous, on s’occupe de vous initier à votre langage de programmation préféré entre R et Python. Que les 100 jours commencent! [Pour en savoir plus](http://www.aebinum.umontreal.ca/datatrek2021.html#)
+
+<h4 align='center'>Une initiative étudiante créé par l'AEBINUM (http://www.aebinum.umontreal.ca/) et soutenu par l'IVADO (https://ivado.ca/en/)</h4>
 
 ### Nos objectifs 
 
@@ -27,14 +17,22 @@ _______
 
 ### L'équipe d'organisation de Ran.Données / Data.Trek
 
-- Par ordre alphabtéique : Savandara Besse (@ladyson1806), Barbara Decelle, Caroline Labelle (@labellca), Fatima Mostefai (@fmostefai), Maria Virginia Ruiz Cuevas (@VirginieR) & Safia Safa-tahar-henni (@SafiaSafa)
+- Par ordre alphabtéique : Savandara Besse (@ladyson1806), Barbara Decelle (IVADO), Caroline Labelle (@labellca), Fatima Mostefai (@fmostefai), Maria Virginia Ruiz Cuevas (@VirginieR) & Safia Safa-tahar-henni (@SafiaSafa)
+
+### Contenu de Partage
+
+Ce dossier contient l'ensemble des documents liés au Data.Trek 2021: 
+1. contenu: Notebooks utilisés pendant les ateliers 
+2. data: Banque de données et idée de projets 
+3. ressources_externes: Notebook des notions de base et autres ressources
+4. Calendrier
 
 _______
 
 ## Pour valider le défi 'Profil Github" pour Ran.Données // To validate the challenge "Github Profile" for Data.Trek
-- Décrivez-vous en quelques lignes / Describe yourself on few lines after generating a profile description 
-> Indice ici / Hint here: https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
+- Décrivez-vous en quelques lignes sur votre description de profil Github / Describe yourself on few lines after generating a profile description on your Github account
 
+> Indice ici / Hint here: https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
 
 Quelques idées pour commencer / Here are some ideas to get you started:
 - Prénom, Nom / First Name, Last name
@@ -54,7 +52,7 @@ Mettez au moins une de ces informations / Add at least one of those information 
 - <a href='https://github.com/ladyson1806'>ladyson1806</a>
 
 > Souhaitez-vous partager le vôtre ? Ecrivez moi sur Slack (@Savvy) et je vous ajouterai ici ! <br>
-> Do you want to share yours? Write on Slack (@Savvy) and I'll add you here!
+> Do you want to share yours? Write me on Slack (@Savvy) and I'll add you here!
 
 <h2 align='center'>Bonne chance pour vos 100 jours de Ran.Données 🎉 <br> Good luck for your 100 days of Data.Trek !! 🎉</h1>
   
