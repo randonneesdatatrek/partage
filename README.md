@@ -53,8 +53,8 @@ Mettez au moins une de ces informations / Add at least one of those information 
 - <a href='https://github.com/RignonNoel'>RignonNoel</a>
 - <a href='https://github.com/ladyson1806'>ladyson1806</a>
 
-> Souhaitez-vous partager le vôtre ? Ecrivez moi sur Slack (@Savvy) et je vous ajouterai ici !
+> Souhaitez-vous partager le vôtre ? Ecrivez moi sur Slack (@Savvy) et je vous ajouterai ici ! <br>
 > Do you want to share yours? Write on Slack (@Savvy) and I'll add you here!
 
-<h1 align-text='center'>Bonne chance pour vos 100 jours de Ran.Données / Good luck for your 100 of Data.Trek !! 🎉</h1>
+<h1 align='center'>Bonne chance pour vos 100 jours de Ran.Données 🎉 <br> Good luck for your 100 of Data.Trek !! 🎉</h1>
   
