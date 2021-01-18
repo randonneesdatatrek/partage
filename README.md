@@ -1,5 +1,4 @@
-# Défi des 100 jours de Ran.données <br>
-# _aka. 100 days of Data.Trek_
+# Défi des 100 jours de Ran.données <br> _aka. 100 days of Data.Trek_
 ## Organisé par l'AÉBINUM et IVADO
 
 ## A propos
