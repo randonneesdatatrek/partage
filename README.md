@@ -11,3 +11,44 @@ Ce dossier contient l'ensemble des documents liés au Data.Trek 2021:
 3. ressources_externes: Notebook des notions de base et autres ressources
 4. Calendrier
 
+_______
+
+## About us
+### Data quoi ?
+
+- Ran.Donnée / Data.Trek est une initiative étudiante créé par l'AEBINUM (http://www.aebinum.umontreal.ca/) et soutenu par l'IVADO (https://ivado.ca/en/)
+- Un défi de 100 jours qui permet d'apprendre à analyser un jeu de données de type "big data"
+
+### Nos objectifs 
+
+- Familiarisation à la science des données 
+- Acquisition de bonnes pratiques en programmation et en analyse de données 
+- Création d'une communauté bienveillante autour de l'open science et la data science
+
+### L'équipe d'organisation de Ran.Données / Data.Trek
+
+- Par ordre alphabtéique : Savandara Besse (@ladyson1806), Barbara Decelle, Caroline Labelle (@labellca), Fatima Mostefai (@fmostefai), Maria Virginia Ruiz Cuevas (@XXXX) & Safia Safa-tahar-henni (@SafiaSafa)
+
+_______
+
+## Pour valider le défi 'Profil Github" pour Ran.Données // To validate the challenge "Github Profile" for Data.Trek
+- Décrivez-vous en quelques lignes / Describe yourself on few lines after generating a profile description 
+> Hint here: https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
+
+
+Quelques idées pour commencer / Here are some ideas to get you started:
+- Prénom, Nom - First Name, Last name
+
+Mettez au moins une de ces informations / One of those information :
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+### Exemples de profil / Profile example :
+- <a href='https://github.com/RignonNoel'>RignonNoel</a>
+- <a href='https://github.com/ladyson1806'>ladyson1806</a>
