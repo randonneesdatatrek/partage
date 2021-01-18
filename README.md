@@ -13,7 +13,7 @@ Ce dossier contient l'ensemble des documents liés au Data.Trek 2021:
 
 _______
 
-## About us
+## A propos
 ### Data quoi ?
 
 - Ran.Donnée / Data.Trek est une initiative étudiante créé par l'AEBINUM (http://www.aebinum.umontreal.ca/) et soutenu par l'IVADO (https://ivado.ca/en/)
