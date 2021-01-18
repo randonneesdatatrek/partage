@@ -28,8 +28,8 @@ Ce dossier contient l'ensemble des documents liés au Data.Trek 2021:
 
 _______
 
-## Pour valider le défi 'Profil Github" pour Ran.Données // To validate the challenge "Github Profile" for Data.Trek
-- Décrivez-vous en quelques lignes sur votre description de profil Github / Describe yourself on few lines after generating a profile description on your Github account
+## Pour valider le défi 'Profil Github" pour Ran.Données <br> To validate the challenge "Github Profile" for Data.Trek
+- Décrivez-vous en quelques lignes sur votre description de profil Github <br> Describe yourself on few lines after generating a profile description on your Github account
 
 > Indice ici / Hint here: https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
 
