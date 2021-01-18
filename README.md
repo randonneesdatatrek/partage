@@ -33,11 +33,11 @@ _______
 
 ## Pour valider le défi 'Profil Github" pour Ran.Données // To validate the challenge "Github Profile" for Data.Trek
 - Décrivez-vous en quelques lignes / Describe yourself on few lines after generating a profile description 
-> Hint here: https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
+> Indice ici / Hint here: https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
 
 
 Quelques idées pour commencer / Here are some ideas to get you started:
-- Prénom, Nom - First Name, Last name
+- Prénom, Nom / First Name, Last name
 
 Mettez au moins une de ces informations / Add at least one of those information :
 - 🔭 I’m currently working on ...
