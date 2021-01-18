@@ -27,7 +27,7 @@ _______
 
 ### L'équipe d'organisation de Ran.Données / Data.Trek
 
-- Par ordre alphabtéique : Savandara Besse (@ladyson1806), Barbara Decelle, Caroline Labelle (@labellca), Fatima Mostefai (@fmostefai), Maria Virginia Ruiz Cuevas (@XXXX) & Safia Safa-tahar-henni (@SafiaSafa)
+- Par ordre alphabtéique : Savandara Besse (@ladyson1806), Barbara Decelle, Caroline Labelle (@labellca), Fatima Mostefai (@fmostefai), Maria Virginia Ruiz Cuevas (@VirginieR) & Safia Safa-tahar-henni (@SafiaSafa)
 
 _______
 
