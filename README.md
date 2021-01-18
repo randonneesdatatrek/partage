@@ -3,7 +3,6 @@
 <h3 align='right'>Organisé par l'AÉBINUM et IVADO</h3>
 
 ## A propos
-### Data quoi ?
 
 Le Défi des 100 jours de Ran.Données, c’est allier l’utile à l’agréable! Tout commence par un jeu de données et une idée de projet – ça, c’est vous qui les fournissez. Nous, on s’occupe de vous initier à votre langage de programmation préféré entre R et Python. Que les 100 jours commencent! [Pour en savoir plus](http://www.aebinum.umontreal.ca/datatrek2021.html#)
 
