@@ -23,5 +23,6 @@ Le Défi des 100 jours de Ran.Données, c’est allier l’utile à l’agréabl
 Ce dossier contient l'ensemble des documents liés au Data.Trek 2021: 
 1. contenu: Notebooks utilisés pendant les ateliers 
 2. data: Banque de données et idée de projets 
-3. ressources_externes: Notebook des notions de base et autres ressources
-4. Calendrier
+3. defis: Consignes / Indices pour certais défis de Data.Trek
+4. ressources_externes: Notebook des notions de base et autres ressources
+5. Calendrier
